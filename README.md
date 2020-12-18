@@ -11,7 +11,7 @@ YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
 AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku site link>/bot.php``
 
-# Configarations
+# Configurations
 
 ``BOT_TOKEN : YOUR BOT TOKEN FROM @BOTFATHER``
 
