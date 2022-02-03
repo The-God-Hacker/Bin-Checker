@@ -89,7 +89,7 @@ bot('sendmessage', [
 
 ➤ Cʀᴇᴅɪᴛ/Dᴇʙɪᴛ : $type
 
-🔺BIN CHECKED TRANKS BY: @GodHackerOwO🔻***",
+🔺BIN CHECKED🔻***",
 'parse_mode'=>"MarkDown",
 ]);
     }
